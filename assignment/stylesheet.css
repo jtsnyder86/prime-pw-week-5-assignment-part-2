@@ -1,6 +1,7 @@
 body{
     background-image: url(../assignment/record.png);
-    background-repeat: inherit;
+    background-repeat: repeat-y;
+    margin: 0;
 }
 
 header{
@@ -11,4 +12,5 @@ header{
 
 main{
     background-color: lightgrey;
+    padding: 1em;
 }
