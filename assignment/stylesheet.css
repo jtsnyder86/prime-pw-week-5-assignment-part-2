@@ -1,5 +1,6 @@
 body{
-    background-image: url(/assignment/record.png) ;
+    background-image: url(../assignment/record.png);
+    background-repeat: inherit;
 }
 
 header{
